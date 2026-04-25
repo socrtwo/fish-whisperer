@@ -1,5 +1,10 @@
 # Welcome to your Lovable project
 
+<!--PAGES_LINK_BANNER-->
+> 🌐 **Live page:** [https://socrtwo.github.io/fish-whisperer/](https://socrtwo.github.io/fish-whisperer/)  
+> 📦 **Releases:** [github.com/socrtwo/fish-whisperer/releases](https://github.com/socrtwo/fish-whisperer/releases)
+<!--/PAGES_LINK_BANNER-->
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/7372cecf-1ce2-4c0b-9ca6-b7d4213af57e
